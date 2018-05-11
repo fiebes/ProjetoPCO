@@ -1,1 +1,7 @@
-a
+host : ec2-23-23-180-121.compute-1.amazonaws.com
+Database : d74unr5t5ri77b
+User : pebiwnbexrhztc
+Port : 5432
+Password : 343d9909dff5353f75b16c2b730fe0b92bdf4c4e228b6821cdd1a60712e3cb69
+URI : postgres://pebiwnbexrhztc:343d9909dff5353f75b16c2b730fe0b92bdf4c4e228b6821cdd1a60712e3cb69@ec2-23-23-180-121.compute-1.amazonaws.com:5432/d74unr5t5ri77b
+Heroku CLI : heroku pg:psql postgresql-encircled-91825 --app projetopco
